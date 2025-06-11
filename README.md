@@ -14,7 +14,7 @@ As part of my data science learning journey, I built a Movie Recommendation Syst
 🤝 With the help of ChatGPT, I understood the logic and structure behind recommendation engines and implemented this project step by step. Still learning – but every line of code adds to my confidence! 💪
 
 🔗 Check out the full project on GitHub:
-👉 https://github.com/NoorbhashaYasmin2026/Movie-Recommendation-System
+👉 https://github.com/NoorbhashaYasmin2026/Movie-Recommendation-System(1).ipynb
 
 Super excited for what’s ahead. Feedback and suggestions are always welcome! 😊
 
